@@ -39,6 +39,7 @@
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/confluent/kafka-schema-registry-client/7.0.0/kafka-schema-registry-client-7.0.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.json:json:20211205" />
     </root>
   </artifact>
 </component>
